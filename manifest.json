@@ -1,0 +1,22 @@
+{
+  "short_name": "SonuMarket",
+  "name": "SonuMarket - IT & Hardware Store",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2885/2885417.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2885/2885417.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "theme_color": "#16a34a",
+  "background_color": "#f8fafc",
+  "orientation": "portrait"
+}
